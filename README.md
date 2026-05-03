@@ -1,4 +1,4 @@
-<img width="1275" height="579" alt="image" src="https://github.com/user-attachments/assets/a2005715-2dcd-42fa-9db4-a9b166af70ae" /><h1 align="center">Hi 👋, I'm Zuhaib</h1>
+<h1 align="center">Hi 👋, I'm Zuhaib</h1>
 <h3 align="center">🚀 CSE Student | Bangalore | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -38,11 +38,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-01&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-01&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zuhaib-01&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Zuhaib-01&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -50,24 +50,12 @@
 </p>
 
 ---
-<!--
-## 🚀 Projects
-- 🔹 Add your best projects here  
-- 🔹 Example: Full Stack Web App  
-- 🔹 Example: Machine Learning Project  
 
----
--->
 ## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/mohammad-zuhaib-wani/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <!--
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  -->
 </p>
 
 ---
