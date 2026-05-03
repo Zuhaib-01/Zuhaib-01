@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zuhaib</h1>
-<h3 align="center">🚀 3rd Year CSE Student | Bangalore | Aspiring Software Developer</h3>
+<h3 align="center">🚀 CSE Student | Bangalore | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zuhaib-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 3rd Year Computer Science Student  
+- 🎓 Computer Science Engineering Student  
 - 📍 Based in Bangalore, India  
 - 💻 Passionate about coding, building projects & hackathons  
 - 🌱 Currently exploring **Full Stack Development & DSA**  
