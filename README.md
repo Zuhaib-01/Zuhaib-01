@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zuhaib</h1>
+<img width="1275" height="579" alt="image" src="https://github.com/user-attachments/assets/a2005715-2dcd-42fa-9db4-a9b166af70ae" /><h1 align="center">Hi 👋, I'm Zuhaib</h1>
 <h3 align="center">🚀 CSE Student | Bangalore | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-01&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhaib-01&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
